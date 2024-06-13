@@ -1,0 +1,3 @@
+[submodule "datasets/fakenewsdatasetscoll"]
+	path = datasets/fakenewsdatasetscoll
+	url = https://github.com/kunturs/fakenewsdatasetscoll.git
