@@ -205,4 +205,7 @@ To use these datasets, clone the repository:
 
 ```bash
 git clone https://github.com/fakenewsresearch/dataset.git
+<<<<<<< HEAD
 
+=======
+>>>>>>> 465753a7ba34c43d65f8eab88435b6e941f54755
