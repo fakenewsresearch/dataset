@@ -1,9 +1,0 @@
-[submodule "datasets/fakenewsdatasetscoll"]
-	path = datasets/fakenewsdatasetscoll
-	url = https://github.com/kunturs/fakenewsdatasetscoll.git
-[submodule "fake-news-corpus"]
-	path = fake-news-corpus
-	url = https://github.com/several27/FakeNewsCorpus.git
-[submodule "TALLIP-FakeNews-Dataset"]
-	path = TALLIP-FakeNews-Dataset
-	url = https://github.com/Arko98/TALLIP-FakeNews-Dataset.git
